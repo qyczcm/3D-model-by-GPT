@@ -1,0 +1,13 @@
+{
+  "diameter_mm": 44,
+  "wall_mm": 1.5,
+  "upper_valid": true,
+  "lower_valid": true,
+  "upper_solids": 1,
+  "lower_solids": 1,
+  "pcb_clashes": [],
+  "shell_interference_mm3": 0.0,
+  "channel_floor_to_highest_component_vertical_mm": 0.6500102006940005,
+  "rod_bottom_to_highest_component_vertical_mm": 2.1500102006940005,
+  "overall_with_pcb_length_mm": 59.283723990309525
+}

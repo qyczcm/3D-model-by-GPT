@@ -1,0 +1,24 @@
+{
+  "sphere_diameter_mm": 42,
+  "main_wall_mm": 1.5,
+  "center_xyz_mm": [
+    13.98905,
+    -12.991,
+    0.8
+  ],
+  "center_shift_toward_USB_mm": 1.01765,
+  "slot_width_mm": 4,
+  "rod_diameter_mm": 2,
+  "usb_protrusion_mm": 4.0,
+  "pcb_clashes": [],
+  "single_solid_halves": true,
+  "shell_overlap_mm3": 0.0,
+  "groove_obstruction_mm3": 0,
+  "rod_collision_mm3": 0,
+  "groove_floor_to_highest_component_mm": 0.6500102006940001,
+  "STEP_roundtrip_passed": true,
+  "previous_model_preserved": true,
+  "previous_sha256": "5f709acc9cb5e05f719de65066964f129ef379c21700652a48c6a49d88532c3e",
+  "previous_model_path": "C:\\Users\\boxing\\Desktop\\硬件电路\\拳击相关\\3D\\球形外壳_D44_V3_USB露出4mm\\球形外壳_D44_V3_USB露出4mm.FCStd",
+  "validation_limits": "Geometric checks only; printing, adhesive and foaming process need prototype verification."
+}

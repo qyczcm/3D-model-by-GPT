@@ -1,0 +1,12 @@
+{
+  "usb_front_y": -49.25707399030953,
+  "shell_front_y": -45.25707399030953,
+  "usb_protrusion_mm": 4.0,
+  "neck_shortened_mm": 3.5429260096904684,
+  "pcb_tongue_exposed_mm": 1.4616260096904696,
+  "valid_single_solid_halves": true,
+  "shell_interference_mm3": 0.0,
+  "new_PCB_collisions": [],
+  "sphere_U_slot_and_root_unchanged": true,
+  "exported_STEP_readback_passed": true
+}

@@ -1,0 +1,208 @@
+{
+  "study_scope": "PCB geometry behind y=-26.1; port tongue remains in a redesigned neck. Supports and seam require redesign.",
+  "sample_count": 1036492,
+  "sample_tolerance_mm": 0.01,
+  "centers": {
+    "current": {
+      "xyz": [
+        13.98905,
+        -11.97335,
+        0.8
+      ],
+      "component_envelope_radius": 18.95176543756875,
+      "worst_point_and_solid_index": [
+        1.1167223227491752,
+        -25.859764659204295,
+        1.600050800102,
+        0.0
+      ],
+      "substrate_xy_radius": 18.93487079221513
+    },
+    "main_board_centered": {
+      "xyz": [
+        13.98905,
+        -12.991,
+        0.8
+      ],
+      "component_envelope_radius": 18.244343925933734,
+      "worst_point_and_solid_index": [
+        1.1095745916384325,
+        -0.0939027602944324,
+        1.600050800102,
+        0.0
+      ],
+      "substrate_xy_radius": 18.226793574433525
+    },
+    "optimized_xy": {
+      "xyz": [
+        13.98905,
+        -12.971,
+        0.8
+      ],
+      "component_envelope_radius": 18.233538979125715,
+      "worst_point_and_solid_index": [
+        1.1095745916384325,
+        -25.85280793312657,
+        1.600050800102,
+        0.0
+      ],
+      "substrate_xy_radius": 18.215978217503253
+    }
+  },
+  "options": [
+    {
+      "center": "current",
+      "diameter": 44,
+      "wall": 1.5,
+      "lip": 0.8,
+      "spherical_clearance_sample_mm": 1.5482345624312508,
+      "body_outside_inner_sphere_mm3": 0.0,
+      "joint_radial_clearance_sample_mm": 0.7651292077848701,
+      "joint_interference_mm3": 0.0,
+      "sphere_volume_reduction_percent": 0.0
+    },
+    {
+      "center": "current",
+      "diameter": 42,
+      "wall": 1.5,
+      "lip": 0.8,
+      "spherical_clearance_sample_mm": 0.5482345624312508,
+      "body_outside_inner_sphere_mm3": 0.0,
+      "joint_radial_clearance_sample_mm": -0.23487079221512985,
+      "joint_interference_mm3": 0.39139351162368313,
+      "sphere_volume_reduction_percent": 13.025920360631094
+    },
+    {
+      "center": "current",
+      "diameter": 41,
+      "wall": 1.5,
+      "lip": 0.8,
+      "spherical_clearance_sample_mm": 0.048234562431250794,
+      "body_outside_inner_sphere_mm3": 0.0,
+      "joint_radial_clearance_sample_mm": -0.7348707922151299,
+      "joint_interference_mm3": 2.4831293229158318,
+      "sphere_volume_reduction_percent": 19.09161344853495
+    },
+    {
+      "center": "current",
+      "diameter": 40,
+      "wall": 1.5,
+      "lip": 0.8,
+      "spherical_clearance_sample_mm": -0.4517654375687492,
+      "body_outside_inner_sphere_mm3": 1.049510219990701,
+      "joint_radial_clearance_sample_mm": -1.2348707922151299,
+      "joint_interference_mm3": 6.281886231603835,
+      "sphere_volume_reduction_percent": 24.868519909842234
+    },
+    {
+      "center": "current",
+      "diameter": 40,
+      "wall": 1.2,
+      "lip": 0.6,
+      "spherical_clearance_sample_mm": -0.1517654375687485,
+      "body_outside_inner_sphere_mm3": 0.18343633318728783,
+      "joint_radial_clearance_sample_mm": -0.7348707922151299,
+      "joint_interference_mm3": 2.4831293229158318,
+      "sphere_volume_reduction_percent": 24.868519909842234
+    },
+    {
+      "center": "current",
+      "diameter": 39,
+      "wall": 1.2,
+      "lip": 0.6,
+      "spherical_clearance_sample_mm": -0.6517654375687485,
+      "body_outside_inner_sphere_mm3": 1.9606761693383938,
+      "joint_radial_clearance_sample_mm": -1.2348707922151299,
+      "joint_interference_mm3": 6.109187693385915,
+      "sphere_volume_reduction_percent": 30.36368332081142
+    },
+    {
+      "center": "current",
+      "diameter": 38,
+      "wall": 1.2,
+      "lip": 0.6,
+      "spherical_clearance_sample_mm": -1.1517654375687485,
+      "body_outside_inner_sphere_mm3": 5.434450919947268,
+      "joint_radial_clearance_sample_mm": -1.7348707922151299,
+      "joint_interference_mm3": 10.562870736059388,
+      "sphere_volume_reduction_percent": 35.58414725770097
+    },
+    {
+      "center": "main_board_centered",
+      "diameter": 44,
+      "wall": 1.5,
+      "lip": 0.8,
+      "spherical_clearance_sample_mm": 2.255656074066266,
+      "body_outside_inner_sphere_mm3": 0.0,
+      "joint_radial_clearance_sample_mm": 1.4732064255664739,
+      "joint_interference_mm3": 0.0,
+      "sphere_volume_reduction_percent": 0.0
+    },
+    {
+      "center": "main_board_centered",
+      "diameter": 42,
+      "wall": 1.5,
+      "lip": 0.8,
+      "spherical_clearance_sample_mm": 1.2556560740662661,
+      "body_outside_inner_sphere_mm3": 0.0,
+      "joint_radial_clearance_sample_mm": 0.47320642556647385,
+      "joint_interference_mm3": 0.0,
+      "sphere_volume_reduction_percent": 13.025920360631094
+    },
+    {
+      "center": "main_board_centered",
+      "diameter": 41,
+      "wall": 1.5,
+      "lip": 0.8,
+      "spherical_clearance_sample_mm": 0.7556560740662661,
+      "body_outside_inner_sphere_mm3": 0.0,
+      "joint_radial_clearance_sample_mm": -0.026793574433526146,
+      "joint_interference_mm3": 0.016313968426825063,
+      "sphere_volume_reduction_percent": 19.09161344853495
+    },
+    {
+      "center": "main_board_centered",
+      "diameter": 40,
+      "wall": 1.5,
+      "lip": 0.8,
+      "spherical_clearance_sample_mm": 0.2556560740662661,
+      "body_outside_inner_sphere_mm3": 0.0,
+      "joint_radial_clearance_sample_mm": -0.5267935744335261,
+      "joint_interference_mm3": 2.7003229268413396,
+      "sphere_volume_reduction_percent": 24.868519909842234
+    },
+    {
+      "center": "main_board_centered",
+      "diameter": 40,
+      "wall": 1.2,
+      "lip": 0.6,
+      "spherical_clearance_sample_mm": 0.5556560740662668,
+      "body_outside_inner_sphere_mm3": 0.0,
+      "joint_radial_clearance_sample_mm": -0.026793574433526146,
+      "joint_interference_mm3": 0.016313968426825063,
+      "sphere_volume_reduction_percent": 24.868519909842234
+    },
+    {
+      "center": "main_board_centered",
+      "diameter": 39,
+      "wall": 1.2,
+      "lip": 0.6,
+      "spherical_clearance_sample_mm": 0.055656074066266825,
+      "body_outside_inner_sphere_mm3": 0.0,
+      "joint_radial_clearance_sample_mm": -0.5267935744335261,
+      "joint_interference_mm3": 2.7003229268413396,
+      "sphere_volume_reduction_percent": 30.36368332081142
+    },
+    {
+      "center": "main_board_centered",
+      "diameter": 38,
+      "wall": 1.2,
+      "lip": 0.6,
+      "spherical_clearance_sample_mm": -0.4443439259337332,
+      "body_outside_inner_sphere_mm3": 1.9398220660268453,
+      "joint_radial_clearance_sample_mm": -1.0267935744335261,
+      "joint_interference_mm3": 8.750972382945537,
+      "sphere_volume_reduction_percent": 35.58414725770097
+    }
+  ]
+}

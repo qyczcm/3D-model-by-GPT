@@ -1,0 +1,12 @@
+{
+  "valid_single_solids": true,
+  "new_pcb_interference_mm3": 0,
+  "shell_interference_mm3": 0.0,
+  "original_shell_removed_mm3": 0.0,
+  "U_slot_intrusion_mm3": 0.0,
+  "tooling_rod_interference_mm3": 0.0,
+  "neck_tip_y": -48.8,
+  "straight_bottom_wall_mm": 1.5,
+  "usb_front_y": -49.25707399030953,
+  "usb_protrusion_mm": 0.45707399030953155
+}
